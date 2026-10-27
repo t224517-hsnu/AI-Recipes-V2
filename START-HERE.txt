@@ -1,0 +1,14 @@
+糕點辨識教室 完整套件 v2
+
+請先讀 README.md 的六個部署步驟。
+GitHub 儲存程式碼 → GitHub Actions → Cloudflare Workers + R2。
+本版含真正的密碼後台與版本儲存，GitHub Pages 無法單獨執行全部功能。
+
+把此資料夾內容上傳至儲存庫根目錄，不要只上傳 ZIP。
+先建立 R2 儲存桶，再於 GitHub 設定四個 Secrets，最後執行 Actions。
+
+食譜範本：materials/pastry-recipes.xlsx 或 web/recipes.csv。
+教案與檢核表：web/teacher-guide.html。
+Canva 簡報連結：materials/COURSE-LINKS.txt。
+
+既有網站的雲端歷史紀錄不包含在 ZIP；新部署會建立獨立紀錄。

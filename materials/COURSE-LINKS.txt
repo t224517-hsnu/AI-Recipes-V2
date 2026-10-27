@@ -1,0 +1,13 @@
+Canva 教學簡報 16 頁
+https://canva.link/2vbof699mu4c3zj
+
+原課堂網站
+https://pastry-ai-classroom-1027.hsnu-8558.chatgpt.site
+
+Teachable Machine 模型
+https://teachablemachine.withgoogle.com/models/il-xR9WBN/
+
+Google 食譜檔案
+https://docs.google.com/spreadsheets/d/1VmRoQM6oiSJrrnuExrM6wH08sqtfD1eU/edit
+
+獨立部署後，請使用 GitHub Actions 或 Cloudflare 控制台提供的新網址。

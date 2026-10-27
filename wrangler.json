@@ -1,0 +1,12 @@
+{
+  "name": "pastry-ai-classroom",
+  "main": "worker/index.js",
+  "compatibility_date": "2025-04-01",
+  "workers_dev": true,
+  "r2_buckets": [
+    {
+      "binding": "BUCKET",
+      "bucket_name": "pastry-ai-settings"
+    }
+  ]
+}
